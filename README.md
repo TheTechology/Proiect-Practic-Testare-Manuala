@@ -89,7 +89,7 @@ The plan identifies the items and the features to be tested, the type of testing
 ## 3.2 Test conditions 
  we will use test environment
  - testing using new accounts and older account is necessary
-The following test conditions could be found here [Test conditions](https://github.com/BogdanScutariu/Proiect-Practic-Testare-Manuala/blob/main/Sesiune%20Teoretica.pptx) 
+The following test conditions could be found here [Test conditions]([https://github.com/BogdanScutariu/Proiect-Practic-Testare-Manuala/blob/main/Sesiune%20Teoretica.pptx](https://github.com/TheTechology/Proiect-Practic-Testare-Manuala/blob/main/Sesiune%20Teoretica.pptx)) 
 
 ## 3.3  Test cases
  The test cases with steps could be found here: *vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira. 
