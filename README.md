@@ -1,8 +1,8 @@
 # Proiect Practic Testare Manuala
 | Date  | Description  | Author | Comments | 
 |---|---|---|---|
-| 05.05.2023 | Test Plan for version 0.55 | Marian DUMITRU|   |
-| 07.07.2023 | Test Plan for version 1.0 | Marian DUMITRU | Added more details for Test Implementation |
+| 05.08.2023 | Test Plan for version 0.55 | Marian DUMITRU|   |
+| 07.09.2023 | Test Plan for version 1.0 | Marian DUMITRU | Added more details for Test Implementation |
 
 1. Introduction
      
