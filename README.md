@@ -1,7 +1,7 @@
 # Proiect Practic Testare Manuala
 | Date  | Description  | Author | Comments | 
 |---|---|---|---|
-| 05.08.2023 | Test Plan for version 0.55 | Marian DUMITRU|   |
+| 05.08.2023 | Test Plan for version 0.55 | Marian DUMITRU|   | Added more details for Test Implementation|
 | 07.09.2023 | Test Plan for version 1.0 | Marian DUMITRU | Added more details for Test Implementation |
 
 1. Introduction
@@ -53,7 +53,7 @@ Automation testing is beyond scope.
 
 | Role | Name | Tasks/Work |
 |---|---|---|
-| Senior Tester | Matei Oltean | will test: Add funds, Withdraw funds |
+| Senior Tester | Marian DUMITRU | will test: Add funds, Withdraw funds |
 | Tester | Adelina Pop | will test: Sends money |
 
 #### Entry criteria:
